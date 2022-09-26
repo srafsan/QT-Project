@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\guide.o
+./debug\aguide.o
+./debug\bguide.o
+./debug\account.o
+./debug\cguide.o
+./debug\dguide.o
+./debug\cost1.o
+./debug\moc_guide.o
+./debug\moc_aguide.o
+./debug\moc_bguide.o
+./debug\moc_account.o
+./debug\moc_cguide.o
+./debug\moc_dguide.o
+./debug\moc_cost1.o
+);

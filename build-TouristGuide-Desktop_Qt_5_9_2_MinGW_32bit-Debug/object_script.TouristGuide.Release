@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\guide.o
+./release\aguide.o
+./release\bguide.o
+./release\account.o
+./release\cguide.o
+./release\dguide.o
+./release\cost1.o
+./release\moc_guide.o
+./release\moc_aguide.o
+./release\moc_bguide.o
+./release\moc_account.o
+./release\moc_cguide.o
+./release\moc_dguide.o
+./release\moc_cost1.o
+);
